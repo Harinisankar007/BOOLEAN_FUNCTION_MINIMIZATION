@@ -1,5 +1,5 @@
 # BOOLEAN_FUNCTION_MINIMIZATION
-
+### Date:30-09-2025
 **AIM:**
 
 To implement the given logic function verify its operation in Quartus using Verilog programming.
