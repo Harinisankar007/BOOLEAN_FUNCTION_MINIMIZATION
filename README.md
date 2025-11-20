@@ -46,11 +46,13 @@ assign f2=((~y & z)|( w & y )|(x & y));
 endmodule
 ```
 **RTL**
+
 <img width="556" height="942" alt="image" src="https://github.com/user-attachments/assets/d6d79d9a-1c58-4b18-94b3-72822f68c7dd" />
+
+<img width="675" height="997" alt="image" src="https://github.com/user-attachments/assets/5557b508-9558-40bf-b73c-6fe529f3ab0f" />
 
 **RTL realization**
 ![image](https://github.com/user-attachments/assets/6b38ca0a-f8e3-4ae3-9252-2452fbbc1218)
-<img width="675" height="997" alt="image" src="https://github.com/user-attachments/assets/5557b508-9558-40bf-b73c-6fe529f3ab0f" />
 
 **Timing Diagram**
 
